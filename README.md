@@ -6,3 +6,19 @@ Learning opportunity on ES6 in which I made a simple bingo application
 |----------|----------------------------------------------------|
 | *let*    | only exists within the scope of a function, so will return an error when not found |
 | *const*  | used to declare fixed variables |
+
+## Arrowfunctions
+```
+
+let talk = (permission) => {
+    if permission {
+        console.log("yay");
+    } else {
+        console.log("damn");
+    }
+}
+
+```
+
+## Template Strings
+backtics
